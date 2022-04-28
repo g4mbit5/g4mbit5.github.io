@@ -2,5 +2,5 @@
 
 <ul> 
     <li><font color="green">g4mbit-shell.php 
-        <br></font> Uses html, css, and php passthru. NO javascript. Shout out to <font color="Cyan">powny</font><font color="Chartreuse">shell</font> for the code reuse.</li>
+        <br></font> Uses html, css, and php passthru. NO javascript. Shout out to <font color="Cyan">p0wny</font><font color="Chartreuse">shell</font> for the code reuse.</li>
 </ul>
